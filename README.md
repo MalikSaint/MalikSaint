@@ -6,7 +6,7 @@ Burning desire to further my education in the IT/Cybersecurity field.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join SOC Analyst, IAM Identity, and Help Desk roles.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join SOC Analyst, IAM Analyst, and Help Desk roles.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
