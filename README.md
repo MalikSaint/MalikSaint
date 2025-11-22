@@ -13,7 +13,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log analysis & security event interpretation (Windows Event Log Monitoring & Alerting)  | <a href="https://google.com">Detection Lab</a>|
 | SIEM configuration & log ingestion (Home SIEM Lab (Wazuh / Splunk / Elastic) | <a href="https://google.com">Detection Lab</a>|
 | Packet-level network analysis (TCP/IP, DNS, HTTP) (Wireshark Packet Capture & Analysis)      | SOC Automation Lab|
 | Vulnerability assessment & report interpretation (Vulnerability Scanning Lab (Nessus Essentials)     | SOC Automation Lab|
